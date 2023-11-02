@@ -1,0 +1,1 @@
+# Metamask-Wallet-Gateway-Web3-Plugin-Snaps-Span-Moralis-Wrapper
